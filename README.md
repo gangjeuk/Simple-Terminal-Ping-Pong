@@ -1,6 +1,6 @@
 # Simple Terminal Ping Pong game written in C
 
-![/img/screenshot.png]
+<img src='img/screenshot.png' width='300'>
 
 # 한국어
 
